@@ -1,0 +1,33 @@
+.text-main {
+    padding-top: 200px;
+}
+
+.headerImg{
+    height:600px;
+    
+}
+
+body {
+    background-color: grey;
+}
+
+.card-body {
+    text-align: center;
+}
+
+h1  {
+    font-size: 50px;
+    font-family: 'Grandiflora One', serif;
+    font-family: 'Noto Serif Makasar', serif; ;
+}
+
+h3 {
+    font-family: 'Grandiflora One', serif;
+        font-family: 'Noto Serif Makasar', serif;
+}
+
+h5 {
+font-family: 'Grandiflora One', serif;
+    font-family: 'Noto Serif Makasar', serif;
+}
+
